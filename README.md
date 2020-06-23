@@ -1,2 +1,2 @@
-# Python-code
+# Group 10
 程式比賽圖表繪製
